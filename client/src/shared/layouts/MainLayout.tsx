@@ -4,10 +4,10 @@ import { Footer } from '@/shared/components/Footer';
 
 export function MainLayout() {
   return (
-    <div className="min-h-screen bg-zinc-50 text-zinc-950">
+    <div className="flex flex-col min-h-screen bg-zinc-50 text-zinc-950">
       <Header />
 
-      <main className="pt-16">
+      <main className="flex-1 pt-16">
         <Outlet />
       </main>
 
