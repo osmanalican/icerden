@@ -1,12 +1,8 @@
-# İçerden
+# İçerdenbilgi
 
-İçerden, yazılımcıların şirketler ve mülakat süreçleri hakkında anonim deneyimlerini paylaşabildiği topluluk odaklı bir platformdur.
+Çalışanların ve iş adaylarının şirketler hakkında anonim deneyimlerini paylaşabildiği topluluk odaklı bir platformdur.
 
-##  Amaç
-
-İş arayan yazılımcıların mülakatlara daha hazırlıklı girmesini sağlamak ve şirketlerin işe alım süreçleri hakkında şeffaf bilgi sunmak.
-
-##  Tech Stack
+## Tech Stack
 
 Frontend
 
